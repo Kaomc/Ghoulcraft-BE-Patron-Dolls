@@ -1,0 +1,108 @@
+{
+	"block": {},
+	"function": {},
+	"render_controller": {
+		"RP/render_controllers/patrondoll.json": {
+			"ids": [
+				"controller.render.patrondoll"
+			]
+		}
+	},
+	"client_entity": {
+		"RP/entity/patrondoll_sunny.json": {
+			"identifiers": [
+				"ghoulcraft:patrondoll_sunny"
+			],
+			"particle_references": [],
+			"animation_references": [],
+			"sound_references": [],
+			"texture_references": [
+				"default"
+			],
+			"material_references": [
+				"default"
+			],
+			"geometry_references": [
+				"default"
+			],
+			"geometry_identifiers": [
+				"default"
+			]
+		},
+		"RP/entity/patrondoll_kao.json": {
+			"identifiers": [
+				"ghoulcraft:patrondoll_kao"
+			],
+			"particle_references": [],
+			"animation_references": [],
+			"sound_references": [],
+			"texture_references": [
+				"default"
+			],
+			"material_references": [
+				"default"
+			],
+			"geometry_references": [
+				"default"
+			],
+			"geometry_identifiers": [
+				"default"
+			]
+		},
+		"RP/entity/patrondoll_missghouls.json": {
+			"identifiers": [
+				"ghoulcraft:patrondoll_missghouls"
+			],
+			"particle_references": [],
+			"animation_references": [],
+			"sound_references": [],
+			"texture_references": [
+				"default"
+			],
+			"material_references": [
+				"default"
+			],
+			"geometry_references": [
+				"default"
+			],
+			"geometry_identifiers": [
+				"default"
+			]
+		}
+	},
+	"entity": {
+		"BP/entities/patrondoll_sunny.json": {
+			"events": [],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"ghoulcraft:patrondoll_missghouls"
+			],
+			"animation_references": [],
+			"families": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/entities/patrondoll_kao.json": {
+			"events": [],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"ghoulcraft:patrondoll_missghouls"
+			],
+			"animation_references": [],
+			"families": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/entities/patrondoll_missghouls.json": {
+			"events": [],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"ghoulcraft:patrondoll_missghouls"
+			],
+			"animation_references": [],
+			"families": [],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	}
+}
