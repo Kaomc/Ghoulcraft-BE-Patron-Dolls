@@ -11,7 +11,7 @@
 	"client_entity": {
 		"RP/entity/patrondoll_sunny.json": {
 			"identifiers": [
-				"ghoulcraft:patrondoll_sunny"
+				"ghoulcraft:patrondoll_mushroomelf"
 			],
 			"particle_references": [],
 			"animation_references": [],
@@ -68,6 +68,26 @@
 			"geometry_identifiers": [
 				"default"
 			]
+		},
+		"RP/entity/patrondoll_mushroomelf.json": {
+			"identifiers": [
+				"ghoulcraft:patrondoll_mushroomelf"
+			],
+			"particle_references": [],
+			"animation_references": [],
+			"sound_references": [],
+			"texture_references": [
+				"default"
+			],
+			"material_references": [
+				"default"
+			],
+			"geometry_references": [
+				"default"
+			],
+			"geometry_identifiers": [
+				"default"
+			]
 		}
 	},
 	"entity": {
@@ -75,7 +95,7 @@
 			"events": [],
 			"bridge_core_tags": [],
 			"identifiers": [
-				"ghoulcraft:patrondoll_missghouls"
+				"ghoulcraft:patrondoll_mushroomelf"
 			],
 			"animation_references": [],
 			"families": [],
@@ -98,6 +118,17 @@
 			"bridge_core_tags": [],
 			"identifiers": [
 				"ghoulcraft:patrondoll_missghouls"
+			],
+			"animation_references": [],
+			"families": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/entities/patrondoll_mushroomelf.json": {
+			"events": [],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"ghoulcraft:patrondoll_mushroomelf"
 			],
 			"animation_references": [],
 			"families": [],

@@ -1,13 +1,13 @@
-//bridge-file-version: #0
+//bridge-file-version: #1
 {
 	"format_version": 2,
 	"header": {
-		"name": "[Patron Dolls] Ghoulcraft BE 1.0",
+		"name": "[Patron Dolls] Ghoulcraft BE 1.2",
 		"description": "Thank you for supporting Ghoulcraft BE!",
 		"uuid": "21fa76ac-92b2-412a-b773-5dd86a3e6c0e",
 		"version": [
 			1,
-			0,
+			2,
 			0
 		],
 		"min_engine_version": [
@@ -22,7 +22,7 @@
 			"uuid": "29aed364-f209-4d19-8d23-7801d6c45c73",
 			"version": [
 				1,
-				0,
+				2,
 				0
 			]
 		}
@@ -31,7 +31,7 @@
 		{
 			"version": [
 				1,
-				0,
+				2,
 				0
 			],
 			"uuid": "9b7f4620-a7aa-4e21-b6c0-c84d8143fdba"

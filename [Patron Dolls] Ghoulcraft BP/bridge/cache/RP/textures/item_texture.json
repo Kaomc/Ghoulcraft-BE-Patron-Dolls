@@ -3,7 +3,7 @@
 	"file_type": "item_texture",
 	"format_version": 1,
 	"file_uuid": "7b5369a2_ffd6_489f_8dfd_cd09be206937",
-	"file_version": 1,
+	"file_version": 2,
 	"cache_content": {
 		"children": [
 			{
@@ -23,7 +23,8 @@
 							"textures": [
 								"textures/skins/emissghouls",
 								"textures/skins/ekao",
-								"textures/skins/esunny"
+								"textures/skins/esunny",
+								"textures/skins/emushroomelf"
 							]
 						}
 					}
@@ -36,7 +37,8 @@
 								"textures": [
 									"textures/skins/emissghouls",
 									"textures/skins/ekao",
-									"textures/skins/esunny"
+									"textures/skins/esunny",
+									"textures/skins/emushroomelf"
 								]
 							}
 						},
@@ -47,7 +49,8 @@
 									"textures": [
 										"textures/skins/emissghouls",
 										"textures/skins/ekao",
-										"textures/skins/esunny"
+										"textures/skins/esunny",
+										"textures/skins/emushroomelf"
 									]
 								},
 								"key": "textures",
@@ -55,7 +58,8 @@
 								"children": [
 									"textures/skins/emissghouls",
 									"textures/skins/ekao",
-									"textures/skins/esunny"
+									"textures/skins/esunny",
+									"textures/skins/emushroomelf"
 								]
 							}
 						]

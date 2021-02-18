@@ -3,7 +3,7 @@
 	"file_type": "manifest_rp",
 	"format_version": 1,
 	"file_uuid": "c7231ab9_2d8e_4a2c_b0c1_c3a744ba578f",
-	"file_version": 0,
+	"file_version": 1,
 	"cache_content": {
 		"children": [
 			{
@@ -14,12 +14,12 @@
 				"open": {
 					"format_version": 2,
 					"header": {
-						"name": "[Patron Dolls] Ghoulcraft BE 1.0",
+						"name": "[Patron Dolls] Ghoulcraft BE 1.2",
 						"description": "Thank you for supporting Ghoulcraft BE!",
 						"uuid": "9b7f4620-a7aa-4e21-b6c0-c84d8143fdba",
 						"version": [
 							1,
-							0,
+							2,
 							0
 						],
 						"min_engine_version": [
@@ -34,7 +34,7 @@
 							"uuid": "73448782-a130-4d8f-b180-bec62a665aed",
 							"version": [
 								1,
-								0,
+								2,
 								0
 							]
 						}
@@ -43,7 +43,7 @@
 						{
 							"version": [
 								1,
-								0,
+								2,
 								0
 							],
 							"uuid": "21fa76ac-92b2-412a-b773-5dd86a3e6c0e"
@@ -51,33 +51,79 @@
 					]
 				},
 				"key": "header",
-				"is_minified": true,
-				"children": {
-					"name": "[Patron Dolls] Ghoulcraft BE 1.0",
-					"description": "Thank you for supporting Ghoulcraft BE!",
-					"uuid": "9b7f4620-a7aa-4e21-b6c0-c84d8143fdba",
-					"version": [
-						1,
-						0,
-						0
-					],
-					"min_engine_version": [
-						1,
-						13,
-						0
-					]
-				}
+				"children": [
+					{
+						"open": {
+							"name": "[Patron Dolls] Ghoulcraft BE 1.2",
+							"description": "Thank you for supporting Ghoulcraft BE!",
+							"uuid": "9b7f4620-a7aa-4e21-b6c0-c84d8143fdba",
+							"version": [
+								1,
+								2,
+								0
+							],
+							"min_engine_version": [
+								1,
+								13,
+								0
+							]
+						},
+						"data": "[Patron Dolls] Ghoulcraft BE 1.2",
+						"key": "name"
+					},
+					{
+						"data": "Thank you for supporting Ghoulcraft BE!",
+						"key": "description"
+					},
+					{
+						"data": "9b7f4620-a7aa-4e21-b6c0-c84d8143fdba",
+						"key": "uuid"
+					},
+					{
+						"open": {
+							"name": "[Patron Dolls] Ghoulcraft BE 1.2",
+							"description": "Thank you for supporting Ghoulcraft BE!",
+							"uuid": "9b7f4620-a7aa-4e21-b6c0-c84d8143fdba",
+							"version": [
+								1,
+								2,
+								0
+							],
+							"min_engine_version": [
+								1,
+								13,
+								0
+							]
+						},
+						"key": "version",
+						"is_minified": true,
+						"children": [
+							1,
+							2,
+							0
+						]
+					},
+					{
+						"key": "min_engine_version",
+						"is_minified": true,
+						"children": [
+							1,
+							13,
+							0
+						]
+					}
+				]
 			},
 			{
 				"open": {
 					"format_version": 2,
 					"header": {
-						"name": "[Patron Dolls] Ghoulcraft BE 1.0",
+						"name": "[Patron Dolls] Ghoulcraft BE 1.2",
 						"description": "Thank you for supporting Ghoulcraft BE!",
 						"uuid": "9b7f4620-a7aa-4e21-b6c0-c84d8143fdba",
 						"version": [
 							1,
-							0,
+							2,
 							0
 						],
 						"min_engine_version": [
@@ -92,7 +138,7 @@
 							"uuid": "73448782-a130-4d8f-b180-bec62a665aed",
 							"version": [
 								1,
-								0,
+								2,
 								0
 							]
 						}
@@ -101,7 +147,7 @@
 						{
 							"version": [
 								1,
-								0,
+								2,
 								0
 							],
 							"uuid": "21fa76ac-92b2-412a-b773-5dd86a3e6c0e"
@@ -117,21 +163,39 @@
 								"uuid": "73448782-a130-4d8f-b180-bec62a665aed",
 								"version": [
 									1,
-									0,
+									2,
 									0
 								]
 							}
 						],
-						"is_minified": true,
-						"children": {
-							"type": "resources",
-							"uuid": "73448782-a130-4d8f-b180-bec62a665aed",
-							"version": [
-								1,
-								0,
-								0
-							]
-						}
+						"children": [
+							{
+								"data": "resources",
+								"key": "type"
+							},
+							{
+								"data": "73448782-a130-4d8f-b180-bec62a665aed",
+								"key": "uuid"
+							},
+							{
+								"open": {
+									"type": "resources",
+									"uuid": "73448782-a130-4d8f-b180-bec62a665aed",
+									"version": [
+										1,
+										2,
+										0
+									]
+								},
+								"key": "version",
+								"is_minified": true,
+								"children": [
+									1,
+									2,
+									0
+								]
+							}
+						]
 					}
 				]
 			},
@@ -139,12 +203,12 @@
 				"open": {
 					"format_version": 2,
 					"header": {
-						"name": "[Patron Dolls] Ghoulcraft BE 1.0",
+						"name": "[Patron Dolls] Ghoulcraft BE 1.2",
 						"description": "Thank you for supporting Ghoulcraft BE!",
 						"uuid": "9b7f4620-a7aa-4e21-b6c0-c84d8143fdba",
 						"version": [
 							1,
-							0,
+							2,
 							0
 						],
 						"min_engine_version": [
@@ -159,7 +223,7 @@
 							"uuid": "73448782-a130-4d8f-b180-bec62a665aed",
 							"version": [
 								1,
-								0,
+								2,
 								0
 							]
 						}
@@ -168,7 +232,7 @@
 						{
 							"version": [
 								1,
-								0,
+								2,
 								0
 							],
 							"uuid": "21fa76ac-92b2-412a-b773-5dd86a3e6c0e"
@@ -182,7 +246,7 @@
 							{
 								"version": [
 									1,
-									0,
+									2,
 									0
 								],
 								"uuid": "21fa76ac-92b2-412a-b773-5dd86a3e6c0e"
@@ -193,7 +257,7 @@
 								"open": {
 									"version": [
 										1,
-										0,
+										2,
 										0
 									],
 									"uuid": "21fa76ac-92b2-412a-b773-5dd86a3e6c0e"
@@ -202,7 +266,7 @@
 								"is_minified": true,
 								"children": [
 									1,
-									0,
+									2,
 									0
 								]
 							},

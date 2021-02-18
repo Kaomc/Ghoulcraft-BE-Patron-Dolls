@@ -28,5 +28,11 @@
 	},
 	"BP/entities/patrondoll_missghouls.json": {
 		"data": {}
+	},
+	"BP/entities/patrondoll_mushroomelf.json": {
+		"data": {}
+	},
+	"RP/entity/patrondoll_mushroomelf.json": {
+		"data": {}
 	}
 }

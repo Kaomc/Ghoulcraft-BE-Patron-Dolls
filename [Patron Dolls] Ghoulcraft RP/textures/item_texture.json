@@ -1,4 +1,4 @@
-//bridge-file-version: #1
+//bridge-file-version: #2
 {
 	"resource_pack_name": "vanilla",
 	"texture_name": "atlas.items",
@@ -7,7 +7,8 @@
 			"textures": [
 				"textures/skins/emissghouls",
 				"textures/skins/ekao",
-				"textures/skins/esunny"
+				"textures/skins/esunny",
+				"textures/skins/emushroomelf"
 			]
 		}
 	}
