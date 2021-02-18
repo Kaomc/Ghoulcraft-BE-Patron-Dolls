@@ -1,0 +1,8 @@
+{
+	"file_path": "C:\\Users\\gabri\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\[Patron Dolls] Ghoulcraft RP\\texts\\en_US.lang",
+	"file_type": "client_lang",
+	"format_version": 0,
+	"file_uuid": "4d3cc51c_9c40_4da9_b2f1_50f0b1276200",
+	"file_version": 5,
+	"cache_content": "###=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\r\n##Created By: Kao\r\n##Contact: https://linktr.ee/kaomc\r\n##Translations needs express permission from MissGhouls/Kao.\r\n##Do not redistribute & claim as your own.\r\n##Re-printing is not allowed.\r\n##For more info, refer to [Readme.txt] & [GhoulcraftTOU.txt]\r\n##=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\r\n\r\n##Dolls\r\n\r\nentity.ghoulcraft:patrondoll_sunny.name=Sunny's Patron Doll\r\nentity.ghoulcraft:patrondoll_kao.name=Kao's Doll\r\nentity.ghoulcraft:patrondoll_missghouls.name=MissGhoul's Doll\r\nentity.ghoulcraft:patrondoll_mushroomelf.name=Mushroom Elf Shopkeeper | Sunny's Patron Doll II\r\nentity.ghoulcraft:patrondoll_bunniecore.name=Bunniecore's Patron Doll\r\n\r\n##Eggs\r\n\r\nitem.spawn_egg.entity.ghoulcraft:patrondoll_missghouls.name=Spawn MissGhoul's Doll\r\nitem.spawn_egg.entity.ghoulcraft:patrondoll_kao.name=Spawn Kao's Doll\r\nitem.spawn_egg.entity.ghoulcraft:patrondoll_sunny.name=Spawn Sunny's Patron Doll\r\nitem.spawn_egg.entity.ghoulcraft:patrondoll_mushroomelf.name=Spawn Mushroom Elf Shopkeeper | Sunny's Patron Doll II\r\nitem.spawn_egg.entity.ghoulcraft:patrondoll_bunniecore.name=Spawn Bunniecore's Patron Doll"
+}

@@ -1,0 +1,8 @@
+{
+	"file_path": "C:\\Users\\gabri\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\[Patron Dolls] Ghoulcraft BP\\Readme.txt",
+	"file_type": "unknown",
+	"format_version": 0,
+	"file_uuid": "6aeaf9a3_e82a_4f56_8fed_17318350baf3",
+	"file_version": 0,
+	"cache_content": "Ghoulcraft BE ~ [Patron Dolls] Pack 1.1\r\n\r\n[Patron Dolls] Ghoulcraft BE 1.1\r\n\r\nResolution: 16x\r\nBedrock Version Support: 1.16.200+\r\nCreator: MissGhouls\r\nPorter: Kao\r\nWebsite: https://ghoulcraft.com/\r\n\r\nLast Updated: 02/19/21\r\n\r\n------------------------------\r\n\r\nThis pack contains Ghoulcraft BE's Discord [Booster] Marigold Patron Dolls! They are not blocks, look for their spawn eggs in the creative inventory.\r\n\r\nPlease direct any issues, complaints, questions or suggestions to: \r\n\r\n[JAVA]\r\n@MissGhouls (Twitter)\r\n@MissGhouls (Tumblr)\r\nhttps://www.planetminecraft.com/member/missghouls/\r\n\r\n[BEDROCK/POCKET]\r\n@kaomc_ (Twitter)\r\n@kaomc_ (Tumblr)\r\nhttps://discord.gg/3QSE4mDqQd\r\n\r\n------------------------------\r\n\r\nCrediting:\r\n\r\nLeave a link on one of the site you downloaded the pack:\r\nGhoulcraft.com, Planet Minecraft, or MCPEDL\r\n\r\nLeaving our names (MissGhouls/Kao) is not required, but small credits will\r\nalways be appreciated!\r\n\r\n------------------------------\r\n\r\nMissGhouls does not give permission to use her models in mods, to upload Ghoulcraft\r\nto any other websites, or to use the name \"Ghoulcraft Resource Pack\" without asking\r\nher privately first. Ghoulcraft is found only on Ghoulcraft.com, PMC, and MCPEDL.\r\n"
+}

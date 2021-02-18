@@ -1,0 +1,196 @@
+{
+	"file_path": "C:\\Users\\gabri\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\[Patron Dolls] Ghoulcraft RP\\entity\\patrondoll_kao.json",
+	"file_type": "client_entity",
+	"format_version": 1,
+	"file_uuid": "d2c4d646_6fa4_4171_b505_f0c596dfeab0",
+	"file_version": 6,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.10.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.10.0",
+					"minecraft:client_entity": {
+						"description": {
+							"identifier": "ghoulcraft:patrondoll_kao",
+							"materials": {
+								"default": "entity_alphatest"
+							},
+							"textures": {
+								"default": "textures/skins/kao"
+							},
+							"geometry": {
+								"default": "geometry.patrondoll"
+							},
+							"spawn_egg": {
+								"texture": "patron_egg",
+								"texture_index": 1
+							},
+							"enable_attachables": false,
+							"render_controllers": [
+								"controller.render.patrondoll"
+							]
+						}
+					}
+				},
+				"key": "minecraft:client_entity",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "ghoulcraft:patrondoll_kao",
+								"materials": {
+									"default": "entity_alphatest"
+								},
+								"textures": {
+									"default": "textures/skins/kao"
+								},
+								"geometry": {
+									"default": "geometry.patrondoll"
+								},
+								"spawn_egg": {
+									"texture": "patron_egg",
+									"texture_index": 1
+								},
+								"enable_attachables": false,
+								"render_controllers": [
+									"controller.render.patrondoll"
+								]
+							}
+						},
+						"key": "description",
+						"children": [
+							{
+								"open": {
+									"identifier": "ghoulcraft:patrondoll_kao",
+									"materials": {
+										"default": "entity_alphatest"
+									},
+									"textures": {
+										"default": "textures/skins/kao"
+									},
+									"geometry": {
+										"default": "geometry.patrondoll"
+									},
+									"spawn_egg": {
+										"texture": "patron_egg",
+										"texture_index": 1
+									},
+									"enable_attachables": false,
+									"render_controllers": [
+										"controller.render.patrondoll"
+									]
+								},
+								"data": "ghoulcraft:patrondoll_kao",
+								"key": "identifier"
+							},
+							{
+								"open": {
+									"identifier": "ghoulcraft:patrondoll_kao",
+									"materials": {
+										"default": "entity_alphatest"
+									},
+									"textures": {
+										"default": "textures/skins/kao"
+									},
+									"geometry": {
+										"default": "geometry.patrondoll"
+									},
+									"spawn_egg": {
+										"texture": "patron_egg",
+										"texture_index": 1
+									},
+									"enable_attachables": false,
+									"render_controllers": [
+										"controller.render.patrondoll"
+									]
+								},
+								"key": "materials",
+								"is_minified": true,
+								"children": {
+									"default": "entity_alphatest"
+								}
+							},
+							{
+								"open": {
+									"identifier": "ghoulcraft:patrondoll_kao",
+									"materials": {
+										"default": "entity_alphatest"
+									},
+									"textures": {
+										"default": "textures/skins/kao"
+									},
+									"geometry": {
+										"default": "geometry.patrondoll"
+									},
+									"spawn_egg": {
+										"texture": "patron_egg",
+										"texture_index": 1
+									},
+									"enable_attachables": false,
+									"render_controllers": [
+										"controller.render.patrondoll"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": {
+									"default": "textures/skins/kao"
+								}
+							},
+							{
+								"key": "geometry",
+								"is_minified": true,
+								"children": {
+									"default": "geometry.patrondoll"
+								}
+							},
+							{
+								"open": {
+									"identifier": "ghoulcraft:patrondoll_kao",
+									"materials": {
+										"default": "entity_alphatest"
+									},
+									"textures": {
+										"default": "textures/skins/kao"
+									},
+									"geometry": {
+										"default": "geometry.patrondoll"
+									},
+									"spawn_egg": {
+										"texture": "patron_egg",
+										"texture_index": 1
+									},
+									"enable_attachables": false,
+									"render_controllers": [
+										"controller.render.patrondoll"
+									]
+								},
+								"key": "spawn_egg",
+								"is_minified": true,
+								"children": {
+									"texture": "patron_egg",
+									"texture_index": 1
+								}
+							},
+							{
+								"data": "false",
+								"key": "enable_attachables"
+							},
+							{
+								"key": "render_controllers",
+								"is_minified": true,
+								"children": [
+									"controller.render.patrondoll"
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

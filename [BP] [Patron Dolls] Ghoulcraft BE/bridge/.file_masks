@@ -1,0 +1,44 @@
+{
+	"RP/manifest.json": {
+		"data": {}
+	},
+	"BP/manifest.json": {
+		"data": {}
+	},
+	"RP/entity/patrondoll_sunny.json": {
+		"data": {}
+	},
+	"BP/entities/patrondoll_sunny.json": {
+		"data": {}
+	},
+	"RP/render_controllers/patrondoll.json": {
+		"data": {}
+	},
+	"RP/textures/item_texture.json": {
+		"data": {}
+	},
+	"RP/entity/patrondoll_kao.json": {
+		"data": {}
+	},
+	"BP/entities/patrondoll_kao.json": {
+		"data": {}
+	},
+	"RP/entity/patrondoll_missghouls.json": {
+		"data": {}
+	},
+	"BP/entities/patrondoll_missghouls.json": {
+		"data": {}
+	},
+	"BP/entities/patrondoll_mushroomelf.json": {
+		"data": {}
+	},
+	"RP/entity/patrondoll_mushroomelf.json": {
+		"data": {}
+	},
+	"BP/entities/patrondoll_bunniecore.json": {
+		"data": {}
+	},
+	"RP/entity/patrondoll_bunniecore.json": {
+		"data": {}
+	}
+}
