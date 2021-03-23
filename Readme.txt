@@ -1,7 +1,7 @@
 //bridge-file-version: #0
-Ghoulcraft BE ~ [Patron Dolls] Pack 1.1
+Ghoulcraft BE ~ [Patron Dolls] Pack 1.2
 
-[Patron Dolls] Ghoulcraft BE 1.1
+[Patron Dolls] Ghoulcraft BE 1.2
 
 Resolution: 16x
 Bedrock Version Support: 1.16.200+
@@ -9,7 +9,7 @@ Creator: MissGhouls
 Porter: Kao
 Website: https://ghoulcraft.com/
 
-Last Updated: 02/19/21
+Last Updated: 03/23/21
 
 ------------------------------
 
