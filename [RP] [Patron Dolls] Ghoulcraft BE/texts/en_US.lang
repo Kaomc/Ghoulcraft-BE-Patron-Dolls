@@ -1,3 +1,4 @@
+##bridge-file-version: #9
 ##bridge-file-version: #5
 ###=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ##Created By: Kao
@@ -16,6 +17,7 @@ entity.ghoulcraft:patrondoll_missghouls.name=MissGhoul's Doll
 entity.ghoulcraft:patrondoll_mushroomelf.name=Mushroom Elf Shopkeeper
 entity.ghoulcraft:patrondoll_bunniecore.name=Bunniecore's Patron Doll
 entity.ghoulcraft:patrondoll_gumdrop.name=Gumdrop's Patron Doll
+entity.ghoulcraft:patrondoll_ky.name=Ky's Patron Doll
 
 ##Eggs
 
@@ -25,3 +27,4 @@ item.spawn_egg.entity.ghoulcraft:patrondoll_sunny.name=Sunny's Patron Doll
 item.spawn_egg.entity.ghoulcraft:patrondoll_mushroomelf.name=Mushroom Elf Shopkeeper
 item.spawn_egg.entity.ghoulcraft:patrondoll_bunniecore.name=Bunniecore's Patron Doll
 item.spawn_egg.entity.ghoulcraft:patrondoll_gumdrop.name=Gumdrop's Patron Doll
+item.spawn_egg.entity.ghoulcraft:patrondoll_ky.name=Ky's Patron Doll
