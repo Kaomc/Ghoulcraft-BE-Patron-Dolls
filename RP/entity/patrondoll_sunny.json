@@ -1,0 +1,26 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "ghoulcraft:patrondoll_sunny",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/skins/softiesunflower"
+			},
+			"geometry": {
+				"default": "geometry.patrondoll"
+			},
+			"spawn_egg": {
+				"texture": "patron_egg",
+				"texture_index": 2
+			},
+			"enable_attachables": false,
+			"render_controllers": [
+				"controller.render.patrondoll"
+			]
+		}
+	}
+}

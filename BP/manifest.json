@@ -1,0 +1,39 @@
+{
+	"format_version": "2",
+	"header": {
+		"name": "[Patron Dolls] Ghoulcraft BE 1.2.2",
+		"description": "§l§3Ignore the warning! §r- Version: 1.2.2",
+		"uuid": 21,
+		"version": [
+			1,
+			2,
+			2
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": {
+		"undefined": {
+			"type": "data",
+			"uuid": 29,
+			"version": [
+				1,
+				2,
+				2
+			]
+		}
+	},
+	"dependencies": {
+		"undefined": {
+			"version": [
+				1,
+				2,
+				2
+			],
+			"uuid": 9
+		}
+	}
+}

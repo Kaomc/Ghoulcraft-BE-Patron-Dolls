@@ -1,0 +1,17 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"patron_egg": {
+			"textures": [
+				"textures/skins/emissghouls",
+				"textures/skins/ekao",
+				"textures/skins/esunny",
+				"textures/skins/emushroomelf",
+				"textures/skins/ebunniecore",
+				"textures/skins/egumdrop",
+				"textures/skins/eaecraft"
+			]
+		}
+	}
+}

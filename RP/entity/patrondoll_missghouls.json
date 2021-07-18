@@ -1,0 +1,26 @@
+//bridge-file-version: #7
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "ghoulcraft:patrondoll_missghouls",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/skins/missghouls"
+			},
+			"geometry": {
+				"default": "geometry.patrondoll"
+			},
+			"spawn_egg": {
+				"texture": "patron_egg",
+				"texture_index": 0
+			},
+			"enable_attachables": false,
+			"render_controllers": [
+				"controller.render.patrondoll"
+			]
+		}
+	}
+}
